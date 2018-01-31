@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SortingStuff
+comment1.params=
+comment1.target=SortingStuff()
+comment2.params=
+comment2.target=void\ bubbleSort()
+comment3.params=
+comment3.target=void\ selectionSort()
+comment4.params=
+comment4.target=void\ insertionSort()
+comment5.params=
+comment5.target=boolean\ checkSort()
+numComments=6
